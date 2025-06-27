@@ -30,15 +30,7 @@
 
 <br>
 
-<p align="center">
-    <a href="https://darkmodde.xyz"><img width="7%" alt="Website" title="Website" src="https://i.imgur.com/ePxQiXY.png"/></a>
-  &nbsp;
-    <a href="https://pixgg.com/DarkMode"><img width="7%" alt="Doações" title="Doações" src="https://i.imgur.com/RJ6BcN9.png"/></a>
-  &nbsp;
-    <a href="https://discord.gg/platformdestroyer"><img width="7%" alt="Discord ( PD )" title="Discord ( PD )" src="https://i.imgur.com/AOX1nxB.png"/></a>
-</p>
 
----
 
 <p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=NewFuturoHacks&style=for-the-badge&label=Views:&color=gray"/></a></p>
 
