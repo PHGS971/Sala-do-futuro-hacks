@@ -2,13 +2,11 @@
 
 --- 
 
-<p align="center"><strong>Sala do Futuro Plataformas Hacks</strong></p>
-
-<p align="center">Neste repositório, você encontrará Scripts, Hacks e Websites que automatizam e facilitam tarefas das plataformas do Sala do Futuro, incluindo TarefasSP, Redação Paulista, SPeak, Khan Academy, Alura, Expansão Noturno, Matific, LeiaMe.</p>
+<p align="center"><strong>Redirecionamento rápido</strong></p>
 
 <br><br>
 
-<p align="center"><strong>Para começar a usar os Scripts, Hacks e Websites, basta clicar no botão da plataforma desejada!</strong></p>
+<p align="center"><strong>Para começar a usar os Scripts, Hacks e Websites, basta clicar no botão da plataforma desejada! vocêsera redirecionado para uma das paginas aqui deste repositório</strong></p>
 
 ---
 
